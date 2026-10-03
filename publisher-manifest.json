@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "c989be4633a288ebcf65289f",
+  "owner": "uxmwvk",
+  "repo": "page-8232d9991805bf146c11c154",
+  "title": "knotic",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8232d9991805bf146c11c154",
+      "a": "knotic",
+      "b": "",
+      "entity": "knotic",
+      "brand": "knotic",
+      "separator": "",
+      "path": "index.html",
+      "hash": "3fdcc5052065401d89b62be297fad805307e0e5bf415a925a5a39b51af5bb13b",
+      "content": {
+        "keyword1": "knotic",
+        "keyword2": "",
+        "primary_entity": "knotic",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "knotic是面向个人与团队的VPN加速器与机场订阅服务，提供多地区高速节点、流媒体解锁及游戏优化，支持多端客户端下载，套餐包含基础版、旗舰版与团队版。",
+          "AI_DESCRIPTION": "knotic是面向个人与团队的VPN加速器与机场订阅服务，提供多地区高速节点、流媒体解锁及游戏优化，支持多端客户端下载，套餐包含基础版、旗舰版与团队版。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}body{margin:0;padding:0;font-family:system-ui,-apple-system,sans-serif;background:#FFF8F5;color:#2A2A2A;line-height:1.65;font-size:17px}header{padding:1.25rem 1rem 0;text-align:center}nav{display:flex;flex-wrap:wrap;justify-content:center;gap:10px 16px;padding:8px 4px 8px;font-size:15px}nav a{color:#C44536;font-weight:500;text-decoration:none}nav a:hover{text-decoration:underline}.hero{padding:56px 16px 28px;text-align:center}h1{font-size:clamp(1.85rem,6.2vw,2.65rem);color:#C23B2E;margin:0 auto 14px;font-weight:700;line-height:1.22;max-width:18em}.tagline{font-size:1.05rem;color:#5A4A46;max-width:34em;margin:0 auto}main{max-width:740px;margin:0 auto;padding:4px 18px 36px}section{margin:0}h2{font-size:1.42rem;color:#B83A2E;margin:36px 0 12px;padding-bottom:8px;border-bottom:2px solid #FFC4B8}h3{font-size:1.12rem;color:#D45A45;margin:18px 0 8px}p{margin:0 0 12px}ul{margin:0 0 14px;padding-left:22px}li{margin:0 0 6px}a{color:#C44536}.plans{display:flex;flex-direction:column;gap:14px;margin:16px 0 8px}article.plan{background:#FFFFFF;border:1px solid #FFD8D0;border-radius:10px;padding:16px}article.plan.featured{background:#FFF3F0;border:2px solid #E85D4C}.price{font-size:1.32rem;font-weight:700;color:#C23B2E;margin:2px 0 4px}.annual{font-size:0.92rem;color:#6B5B57;margin:0 0 10px}.badge{display:inline-block;background:#E85D4C;color:#fff;font-size:12px;padding:2px 8px;border-radius:4px;margin-left:6px;font-weight:600}details{background:#FFFFFF;border:1px solid #FFD8D0;border-radius:8px;padding:12px 14px;margin:12px 0}summary{font-weight:650;color:#B83A2E;font-size:1.02rem}details p{margin:10px 0 2px;color:#333}.ad{background:#FFECE7;border:1px dashed #E07A5F;padding:14px 12px;text-align:center;margin:28px 0 8px;font-size:0.95rem;color:#5C3A34}footer{background:#F3E4DE;padding:26px 16px;text-align:center;font-size:14px;color:#5A4A46}footer p{margin:0 0 10px}footer a{color:#C44536;text-decoration:none}.links{margin:12px 0;line-height:1.85}</style><header><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a></nav></header><div class=\"hero\"><h1>knotic VPN 加速器与机场订阅</h1><p class=\"tagline\">官方网站提供机场订阅说明、套餐对照与多端客户端导入指引，服务个人加速与团队多设备场景。</p></div><main><section id=\"intro\"><h2>knotic 品牌简介</h2><p>knotic 是面向跨境访问需求的 VPN 加速器与机场订阅服务。用户完成套餐订阅后获得专属链接，在 Clash、Shadowrocket、sing-box 等客户端中导入即可使用节点，用于浏览、流媒体、会议与游戏加速。</p><p>节点覆盖香港、日本、新加坡、美国等常用地区。基础版面向轻度流量与少量设备；旗舰版强化原生流媒体解锁与 IPLC 游戏线路；团队版扩大流量与在线台数，并支持定制路由。请通过 knotic 官网公布的套餐订阅，避免非官方转售链接。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>公开套餐按月计费，年付价格更低。流量按月重置，设备同时在线有上限。下列信息与当前售卖方案一致，便于对照后再选择客户端下载与导入。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版 <span class=\"badge\">推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体观看</h3><p>需要稳定播放海外影视与直播时，旗舰版全节点原生解锁更合适，可减少地区限制导致的加载失败。基础版覆盖常见平台的基础解锁需求。</p><h3>远程办公与会议</h3><p>访问海外协作工具、网盘与视频会议时，选择延迟较低的线路即可。团队多成员同时在线时，建议团队版以避免设备名额不足。</p><h3>游戏加速</h3><p>对延迟敏感的对战与更新，可使用旗舰版起的 IPLC 优化节点。实际帧感仍取决于本地宽带与所选区服，建议先测延迟再固定节点。</p><h3>学习开发与多终端</h3><p>查阅文献、拉取代码或在手机与电脑间切换时，同一订阅可在多款客户端中使用。注意各套餐同时在线台数，避免超限无法连接。</p></section><section id=\"guide\"><h2>操作说明与客户端下载</h2><p>knotic 不提供自行打包的安装程序，请先完成机场订阅，再从各客户端开发者官方渠道下载软件，最后导入订阅链接。</p><h3>完成订阅</h3><p>在 knotic 选择基础版、旗舰版或团队版并支付后，邮箱或用户中心会给出订阅 URL。请勿把链接发到公开群组，以免流量被他人消耗。</p><h3>下载客户端</h3><p>Windows / macOS 常用 Clash Meta、Clash Verge、sing-box 图形版；Android 可用 Clash Meta for Android；iOS 常用 Shadowrocket、Stash、Quantumult X。请到应用商店或项目官方发布页获取，不要使用来路不明的修改包。</p><h3>导入并连接</h3><p>打开客户端，选择从 URL 添加订阅，粘贴 knotic 链接并更新节点。挑选延迟较低的节点连接，必要时开启系统代理或 TUN。若更新失败，检查订阅是否有效、设备是否超限、本地网络是否正常。</p><p>配置完成后即可用于网络加速。套餐升级、年付续费与工单入口以订阅成功后的说明为准。</p></section><div class=\"ad\">官方提示：请通过 knotic 正规套餐获取机场订阅，客户端请从各自官方来源下载，谨防仿冒下载页与高价转售。</div><section id=\"faq\"><h2>常见问题</h2><p>以下为 knotic 机场订阅与客户端使用中的高频问题，点击问题即可展开说明。</p><details><summary>knotic 是独立 VPN 软件还是机场订阅？</summary><p>knotic 是机场订阅品牌，提供节点与流量套餐，本身不是一款需要安装的专有客户端。你需要下载 Clash、Shadowrocket、sing-box 等兼容软件，再导入 knotic 订阅链接后使用。</p></details><details><summary>如何下载客户端并导入 knotic 订阅？</summary><p>按系统到对应客户端的官方渠道安装，复制订阅 URL，在软件里选择从订阅或 URL 导入并更新。首次建议测速后选用稳定节点。本站仅说明步骤，不托管安装包文件。</p></details><details><summary>三个套餐的流量和设备数分别是多少？</summary><p>基础版每月 100GB、同时 3 台；旗舰版每月 300GB、同时 5 台；团队版每月 1000GB、同时 20 台。超出同时在线上限时新设备可能无法接入。流量用尽需升级或等待下月重置。</p></details><details><summary>能否解锁流媒体，游戏延迟会不会更低？</summary><p>基础版提供基础流媒体解锁与普通节点池。旗舰版强调全节点原生解锁与 IPLC 游戏加速，团队版另有高带宽 VIP 节点。效果仍受你家宽带与目标站点影响，不能理解为绝对零延迟。</p></details><details><summary>月付和年付怎么选，中途能否升级？</summary><p>年付为基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，整体更省。可先按月体验再转年付。升级通常在用户中心办理，到账与生效时间以当时说明为准。</p></details><details><summary>连不上或很慢时优先检查什么？</summary><p>先更新订阅、换节点或协议，确认未超过设备数、本地网络正常。旗舰版享有优先工单，团队版有专属客户经理。同时避免在公共场合泄露订阅链接。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>knotic 官方网站 · VPN 加速器与机场订阅说明</p><div class=\"links\">友情链接：<a href=\"#guide\">客户端下载指引</a> · <a href=\"#plans\">套餐对照</a> · <a href=\"#faq\">常见问题</a></div><p><a href=\"#\">网站地图</a> · <a href=\"#intro\">返回简介</a></p><p>页面内容用于介绍 knotic 订阅、使用场景与操作步骤，客户端请始终从开发者官方来源获取。</p></footer>",
+          "hash": "00fbaa715574640ed5601740396022ab794d96e7e722763a7120e195b41dc5c5",
+          "seo": {
+            "title": "knotic官网 | knotic VPN加速器、机场订阅与客户端下载",
+            "keywords": "knotic,knotic VPN,knotic机场,knotic官网,VPN梯子,网络加速,加速器,客户端下载,机场订阅,IPLC专线",
+            "description": "knotic是面向个人与团队的VPN加速器与机场订阅服务，提供多地区高速节点、流媒体解锁及游戏优化，支持多端客户端下载，套餐包含基础版、旗舰版与团队版。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "aczkv.cn",
+    "host": "p-945f6dfd53.aczkv.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "aczkv.cn",
+      "url": "https://aczkv.cn/",
+      "label": "筑梦",
+      "apex": "aczkv.cn",
+      "kind": null,
+      "identity": "yjjocltc/page-52b4d376b7bfe2f863127edb"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "3f22aa4e047b748c2a829c95762a6707f329e192418f3983a4b4900c94bb2901",
+    "sitemap.xml": "f50312d427f5d7bf601bb5d85df21641f4b0aa63faf8cbde181e380c5052c9a9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bb45de4c1bd6e76364e1ec7ede95fd5f5353dcdd0c61da6e2ccfaf8d76dfc38f",
+    "robots.txt": "407307aa6081a2bc050081fb4fe8b772ddb7634266a9e0fee5af1da99c0bd02c",
+    "f42a756d869addadbe37e18d6b1c96bb.txt": "29b2336b70b4ed159285f24e6e48b28708237132a53a59e387180c7441c88b89"
+  },
+  "revision": "442dbeb1906fcc00b2e9dd24be3fcc3ac0c86abb931c3f3a1614f4867deeb58f"
+}
